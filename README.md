@@ -1,2 +1,1 @@
-# CIDB
-ASUS CIDB Chasis Sensor Replica Project
+# ASUS CIDB Chasis Sensor Replica Project
